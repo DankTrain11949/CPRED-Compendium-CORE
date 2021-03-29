@@ -1,4 +1,4 @@
-# CyberPunk-Red-Fan-Compendium
+# CPRED-Compendium-CORE
 
 manifest: https://raw.githubusercontent.com/DankTrain11949/CPRED-Compendium-CORE/main/module.json
 
