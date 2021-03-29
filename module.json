@@ -1,0 +1,197 @@
+{
+	"name": "CPRED-Compendium-CORE",
+	"title": "CyberPunk Red Fan Compendium CORE UPDATED",
+	"description": "Adds Generic weapons, cyberware, net runner stuff, rollable encounter tables.",
+	"author": "LordOfCardboard & DankTrain",
+	"version": "1.4",
+	"minimumCoreVersion": "0.5.0",
+	"compatibleCoreVersion": "0.7.9",
+	"packs": [{
+			"name": "weapons",
+			"label": "Basic Weapons",
+			"path": "packs/weapons.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "borg",
+			"label": "borgware",
+			"path": "packs/borgware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "cyberaud",
+			"label": "cyberaudio",
+			"path": "packs/cyberaudio.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "cyberdeck hardware",
+			"label": "cyberdeck-hardware",
+			"path": "packs/cyberdeck-hardware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "cyberlimbs cyberarm",
+			"label": "cyberlimbs-cyberarm",
+			"path": "packs/cyberlimbs-cyberarm.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "cyberlimbs cyberlegs",
+			"label": "cyberlimbs-cyberlegs",
+			"path": "packs/cyberlimbs-cyberlegs.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "cybergoptics",
+			"label": "cyberoptics",
+			"path": "packs/cyberoptics.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "drugos",
+			"label": "drugs",
+			"path": "packs/drugs.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "encounter",
+			"label": "encounters",
+			"path": "packs/encounter.db",
+			"entity": "RollTable",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "external body cyberware",
+			"label": "external-body-cyberware",
+			"path": "packs/external-body-cyberware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "fashion ware",
+			"label": "fashionware",
+			"path": "packs/fashionware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "internal body cyberware",
+			"label": "internal-body-cyberware",
+			"path": "packs/internal-body-cyberware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "basic items",
+			"label": "items",
+			"path": "packs/items.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "neuralwares",
+			"label": "neuralware",
+			"path": "packs/neuralware.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "programs attackers",
+			"label": "programs-attackers",
+			"path": "packs/programs-attackers.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "programs black ice",
+			"label": "programs-black-ice",
+			"path": "packs/programs-black-ice.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "programs boosters",
+			"label": "programs-boosters",
+			"path": "packs/programs-boosters.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "programs defender",
+			"label": "programs-defender",
+			"path": "packs/programs-defender.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "ammunition-",
+			"label": "ammunition",
+			"path": "packs/ammunition.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "armor SP",
+			"label": "armor",
+			"path": "packs/armor.db",
+			"entity": "Item",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "role specific stat blocks",
+			"label": "role-specific-stat-blocks",
+			"path": "packs/role-specific-stat-blocks.db",
+			"entity": "RollTable",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "role specific lifepaths",
+			"label": "role-specific-lifepaths",
+			"path": "packs/role-specific-lifepaths.db",
+			"entity": "RollTable",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		},
+		{
+			"name": "general lifepaths",
+			"label": "general-lifepaths",
+			"path": "packs/general-lifepaths.db",
+			"entity": "RollTable",
+			"system": "cyberpunk-red-core",
+			"module": "CPRED-Compendium-CORE"
+		}
+	],
+	"url": "",
+	"manifest": "",
+	"download": ""
+}
