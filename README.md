@@ -1,4 +1,6 @@
-# CyberPunk-Red-Fan-Compendium
+# CyberPunk-Red-Fan-Compendium-CORE
+
+manifest: https://raw.githubusercontent.com/DankTrain11949/CPRED-Compendium-CORE/main/module.json
 
 1.0: NPCs, Weapons, Cyberware, basic items
 
