@@ -15,3 +15,5 @@ manifest: https://raw.githubusercontent.com/DankTrain11949/CPRED-Compendium-CORE
 1.3.5: Removed NPC reference for now, different sheet and actor type.
 
 1.4: BIG thanks to BaronVonCram, whoever you are, for making that fork. Works for Jay's system
+
+1.5: All weapons, armor, cyberware etc. have the correct price, damage, ammo etc.
