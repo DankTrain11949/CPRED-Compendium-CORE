@@ -17,3 +17,5 @@ manifest: https://raw.githubusercontent.com/DankTrain11949/CPRED-Compendium-CORE
 1.4: BIG thanks to BaronVonCram, whoever you are, for making that fork. Works for Jay's system
 
 1.5: All weapons, armor, cyberware etc. have the correct price, damage, ammo etc.
+
+1.6 Removed Black Ice as they are counted as NPC stat blocks.
